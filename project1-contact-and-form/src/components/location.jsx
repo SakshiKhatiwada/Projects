@@ -9,15 +9,15 @@ function ContactLocationDetails() {
         <section className="contactLocation">
             <div className="details">
                 <FaMapMarkerAlt className="icons" />
-                <p>Riyadh, Saudi Arabia</p>
+                <p>Mahendranagar</p>
             </div>
             <div className="details">
                 <FaRegEnvelope className="icons" />
-                <p>info@emkaan.sa</p>
+                <p>mnr@gmail.com</p>
             </div>
             <div className="details">
                 <TbDeviceMobile className="icons" />
-                <p>+966 500487676</p>
+                <p>+977 XXXXXXXXXX</p>
             </div>
 
             <div className="details socials">
